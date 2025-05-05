@@ -1,5 +1,3 @@
-# HamAlert
-
 ## Introduction
 This organization and its repositories contains the source code for the frontend and backend components of [HamAlert](https://hamalert.org), a system that allows amateur radio operators to receive push notifications through various channels if an amateur radio station is spotted through one of several spot sources (e.g. DX cluster, RBN, PSK Reporter etc.). Users can define criteria (called "triggers" and "conditions") to filter the spots that they are interested in.
 
